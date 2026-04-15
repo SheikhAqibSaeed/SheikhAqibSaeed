@@ -12,8 +12,6 @@ Hi 👋, I'm **Aqib Saeed**, a passionate **MERN Stack Developer** from Pakistan
 
 💡 I specialize in developing full-stack applications using **MongoDB, Express.js, React, and Node.js**, with a strong focus on clean code and performance.
 
-🚀 Currently, I'm working on **Technovez**, where I’m building efficient and dynamic web solutions. I love exploring new technologies and continuously improving my skills.
-
 🌱 Right now, I’m learning **Next.js, TypeScript, and System Design** to level up my development workflow and build more robust applications.
 
 🤝 I’m open to collaborating on **open-source projects**, startup ideas, and creative web applications. If you have something exciting, let’s build it together!
