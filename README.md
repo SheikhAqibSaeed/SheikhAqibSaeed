@@ -57,7 +57,7 @@ Hi 👋, I'm **Aqib Saeed**, a passionate **MERN Stack Developer** from Pakistan
 
 ### 🏗️ Industry Experience
  
-- **Technovez** – Full-stack and backend engineering
+- **Technovez** – Full-stack Development (MERN)
 
 ---
 
