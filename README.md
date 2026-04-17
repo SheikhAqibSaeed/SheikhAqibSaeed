@@ -85,7 +85,7 @@ Hi 👋, I'm **Aqib Saeed**, a passionate **MERN Stack Developer** from Pakistan
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fghjgjgjk9334857">
+  <a href="https://www.linkedin.com/in/aqib-saeed-full-stack-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aqibsaeed570@gmail.com">
